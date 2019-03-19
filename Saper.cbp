@@ -43,6 +43,23 @@
 		<Linker>
 			<Add directory="E:/SFML-2.5.1/lib" />
 		</Linker>
+		<Unit filename="file/BaseArt.cpp" />
+		<Unit filename="file/BaseArt.hpp" />
+		<Unit filename="file/Bomb.cpp" />
+		<Unit filename="file/Bomb.hpp" />
+		<Unit filename="file/Button.cpp" />
+		<Unit filename="file/Button.hpp" />
+		<Unit filename="file/CreatorMaps.cpp" />
+		<Unit filename="file/CreatorMaps.hpp" />
+		<Unit filename="file/Object.cpp" />
+		<Unit filename="file/Object.hpp" />
+		<Unit filename="file/PrepareArt.cpp" />
+		<Unit filename="file/PrepareArt.hpp" />
+		<Unit filename="file/Saper.cpp" />
+		<Unit filename="file/Saper.hpp" />
+		<Unit filename="file/function.cpp" />
+		<Unit filename="file/function.hpp" />
+		<Unit filename="file/system.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1551812000 source:e:\programowanie\projekty\saper\main.cpp
-	<SFML/Graphics.hpp>
+1552993248 source:e:\programowanie\projekty\saper\main.cpp
+	"file/Saper.hpp"
+	"file/system.hpp"
 
 1525812018 e:\sfml-2.5.1\include\sfml\graphics.hpp
 	<SFML/Window.hpp>
@@ -410,4 +411,103 @@
 	<SFML/Graphics/PrimitiveType.hpp>
 	<SFML/Graphics/Drawable.hpp>
 	<SFML/Window/GlResource.hpp>
+
+1552992990 source:e:\programowanie\projekty\saper\file\creatormaps.cpp
+	"CreatorMaps.hpp"
+	<iostream>
+	<string>
+
+1552942424 e:\programowanie\projekty\saper\file\creatormaps.hpp
+	"SFML/Graphics.hpp"
+
+1552941971 source:e:\programowanie\projekty\saper\saper.cpp
+	"Saper.hpp"
+	<cstdlib>
+	<iostream>
+
+1552942351 e:\programowanie\projekty\saper\saper.hpp
+	"file/system.hpp"
+	"file/CreatorMaps.hpp"
+	"file/Bomb.hpp"
+	"file/function.hpp"
+
+1551940093 e:\programowanie\projekty\saper\file\system.hpp
+	<SFML/Graphics.hpp>
+
+1552945253 source:e:\programowanie\projekty\saper\file\bomb.cpp
+	"Bomb.hpp"
+	<iostream>
+
+1552298397 e:\programowanie\projekty\saper\file\bomb.hpp
+	<SFML/Graphics.hpp>
+	"function.hpp"
+	"Object.hpp"
+
+1553024373 source:e:\programowanie\projekty\saper\file\function.cpp
+	"function.hpp"
+	<iostream>
+
+1553021383 e:\programowanie\projekty\saper\file\function.hpp
+	<cstdlib>
+	"CreatorMaps.hpp"
+	"Bomb.hpp"
+	"BaseArt.hpp"
+
+1552260151 source:e:\programowanie\projekty\saper\file\object.cpp
+	"Object.hpp"
+
+1552260451 e:\programowanie\projekty\saper\file\object.hpp
+	<SFML/Graphics.hpp>
+
+1552301003 source:e:\programowanie\projekty\saper\file\number.cpp
+	"Number.hpp"
+
+1552302357 e:\programowanie\projekty\saper\file\number.hpp
+	"Object.hpp"
+
+1553024159 source:e:\programowanie\projekty\saper\file\baseart.cpp
+	"BaseArt.hpp"
+
+1553024031 e:\programowanie\projekty\saper\file\baseart.hpp
+	"PrepareArt.hpp"
+	<iostream>
+	<string>
+	"Button.hpp"
+
+1553022967 source:e:\programowanie\projekty\saper\file\saper.cpp
+	"Saper.hpp"
+	<cstdlib>
+	<iostream>
+
+1553024373 e:\programowanie\projekty\saper\file\saper.hpp
+	"system.hpp"
+	"CreatorMaps.hpp"
+	"Bomb.hpp"
+	"function.hpp"
+	"BaseArt.hpp"
+	"Button.hpp"
+
+1552943327 e:\programowanie\projekty\saper\file\preparesprite.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1552943327 source:e:\programowanie\projekty\saper\file\preparesprite.cpp
+	"PrepareSprite.hpp"
+
+1553005042 source:e:\programowanie\projekty\saper\file\prepareart.cpp
+	"PrepareArt.hpp"
+
+1553016338 e:\programowanie\projekty\saper\file\prepareart.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<string>
+
+1553018793 source:e:\programowanie\projekty\saper\file\button.cpp
+	"Button.hpp"
+
+1553018785 e:\programowanie\projekty\saper\file\button.hpp
+	"PrepareArt.hpp"
+	<iostream>
+	<string>
 
